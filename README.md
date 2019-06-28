@@ -2,8 +2,7 @@
 Performing EDA and predicting Popularity of News Websites. Firstly the Outliers are detected and removed, along with some Exploratory Data Analysis being performed. Artificial Neural Networks were put in use for predicting number of shares, according to the data givin. Since it is a regression problem, I have used Keras as application library.
 
 
-The dataset consist of the following
-Attribute:-
+Attribute Information:
      0. url:                           URL of the article
      1. timedelta:                     Days between the article publication and
                                        the dataset acquisition
@@ -74,5 +73,3 @@ Attribute:-
     58. abs_title_subjectivity:        Absolute subjectivity level
     59. abs_title_sentiment_polarity:  Absolute polarity level
     60. shares:                        Number of shares (target)
-    
-    
